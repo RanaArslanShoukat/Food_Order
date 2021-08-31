@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #ececec;
+}
+/* -----------------------------Navbar---------------------------- */
+.nav-link{
+    color: black!important;
+    font-weight: 600;
+}
+.nav-link:hover{
+    color: red!important;
+    border-bottom: 3px solid black;
+}
+.navbar-brand{
+    color: black!important;
+    font-weight: 600;
+}
+.navbar{
+    background-color: #fff!important;
+}
+/* main--------------------------------------------- */
+.main h1{
+    margin-top: 10%;
+}
+.box{
+    background-color: #fff;
+    padding: 1%;
+    margin-right: 1%;
+    margin-top: 1%;
+}
+/* ------------------footer------------------------------------- */
+footer a{
+    text-decoration: none;
+}
+.text{
+    color: black;
+}
+footer p:hover{
+    color: red!important;
+}
+.text{
+    color: black;
+}
